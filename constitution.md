@@ -191,7 +191,7 @@ of the Branch.
 
 ## 15. Winding Up
 
-The Branch may be wound up at any time by the Directors of CAMRA or by a 
+The Branch may be wound up at any time by the Directors of CAMRA or by a
 Special General Meeting called for that purpose, the business having been
 notified in the notice convening the same, and upon a resolution to that effect
 being passed by a majority of at least two thirds of those present and entitled
