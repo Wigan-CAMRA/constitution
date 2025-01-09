@@ -439,3 +439,42 @@ negative findings from those visits. Naturally, there may be times when a
 barrel of real ale has to be changed and a new locally brewed real ale might
 not be immediately available. That should be taken into consideration when
 considering eligibility.
+
+### Appendix 9: Sub-committee to fulfil the role of Social Secretary
+
+_Added to byelaws at branch AGM on Tuesday 14th January 2020 at Wigan Central_
+
+A sub-committee will fulfil the duties required by the Social Secretary,
+dividing the responsibilities between a number of officers in order to make the
+role more manageable.
+
+The sub-committee will be headed up by one officer, with the title of Social
+Secretary. The Social Secretary will report directly to the Branch Chair
+
+A number of officers may be elected to the role of Social Officer. The Social
+Officer role will report to the Social Secretary.
+
+Some activities in the official role description are already covered by other
+officers within the branch and some do not particularly fit the way that the
+branch currently operates, therefore the activities that would be required from
+the sub-committee are: -
+
+* Plan social trips, locally and farther afield, for current and prospective
+    branch members;
+* Plan an annual ‘Festival Volunteers Thankyou Trip’ for volunteers at Wigan
+    Beer Festival;
+* Attend branch meetings, festival planning meetings and other event meetings
+    (e.g. Wigan Beer Week planning meetings) to feed into discussions
+    surrounding social trips;
+* Liaise with the Transport Officer for arrangements for transport for social
+    trips;
+* Liaise with the relevant BLO(s) when visiting breweries inside or outside of
+    the branch;
+* Contact planned venues to make arrangements - rooms, catering, timings etc;
+* Organise transport and accommodation where necessary;
+* Liaise with social secretaries in other Branches on joint events;
+
+Should the member appointed as Social Secretary become unable to fulfil the
+role, an officer appointed as Social Officer should be nominated to temporarily
+fill the role until a permanent appointment to the role of Social Secretary can
+be made.
