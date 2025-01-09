@@ -1,5 +1,20 @@
 # Campaign For Real Ale Wigan Branch Constitution
 
+Document Version:   5.0.1
+Date edited:        7th November 2019
+Edited by:          Sandy Motteram
+Date adopted:       16th October 2019
+
+## Branch Comittee
+
+* Chairperson:                      Sandy Motterham
+* Vice Chairperson:                 Stephen Mears
+* Treasurer:                        Brian Gleave
+* Secretary:                        Phil Healey
+* Membership Secretary:             Karen Mears
+* Additional Committee Member:      Ken Worthington
+* Additional Committee Member:      Dave Brabbin
+
 ## 1. Name
 
 The name shall be the "Campaign for Real Ale Wigan Branch" hereinafter called
