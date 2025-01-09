@@ -215,6 +215,65 @@ Directors of CAMRA or their duly authorised representative.
 The accidental omission to give notice of any meeting to any person entitled to
 such a notice shall not invalidate any proceedings at the meeting.
 
+## 18. Current branch officers
+
+### Committee
+
+| Role | Officer |
+|-|-|
+| Chair | Sandy Motteram |
+| Vice Chair | Stephen Mears |
+| Treasurer | Brian Gleave |
+| Secretary | Stuart Easton |
+| Membership Secretary | Karen Mears |
+| Committee Member | Ken Worthington |
+| Committee Member | Dave Brabbin
+
+### Other officers
+
+| Role | Officer |
+|-|-|
+| Admin Officer | Karen Mears |
+| Admin Officer | Lisa Whittle |
+| Auditor (1) | Alan Robinson |
+| Auditor (2) | Bill Bradbury |
+| Auditor (3) | Daniel Carson |
+| Cider Representative | Carol Worthington |
+| Clubs Officer | Stephen Mears |
+| GBG Co-ordinator | Darrell Lawton |
+| Health and Safety Officer | George Valentine |
+| Local Guide Officer | Roy Pearson |
+| LocAle Coordinator | Stuart Easton |
+| Magazine Editor | Joanne Greenall |
+| Minutes Secretary | Philip Healey |
+| Press and Publicity Officer | Roy Pearson |
+| Pub Campaigns Coordinator | Stephen Mears |
+| Pub Protection Officer | Pete Marsh |
+| Public Affairs Officer | Dorothy Abbott |
+| Public Transport Officer | Stephen Brindle |
+| Social Media Coordinator | Roy Pearson |
+| Social Secretary | Stephen Brindle |
+| Social Officer | Joanne Greenall |
+| Social Officer | Julie Atha |
+| Social Officer | Stuart Hurst |
+| Training Co-ordinator | Dave Whittle |
+| Website Coordinator | Roy Pearson |
+
+### Brewery Liaison Officers (BLOs) (appointed regionally, rather than by the branch)
+
+| Brewery | Region | BLO |
+|-|-|-|
+| Clay Brow | Lancashire | Stuart Easton |
+| Hophurst | Greater Manchester | Darrell Lawton |
+| Martland Mill | Greater Manchester | Andrew Greenough |
+| Mayflower | Greater Manchester | Ken Worthington |
+| Problem Child | Lancashire | Nick Clarke |
+| Prospect | Greater Manchester | Carol Worthington |
+| Twisted Wheel | Greater Manchester | Dave Brabbin |
+| Wigan Brewhouse | Greater Manchester | Stephen Mears |
+| Wily Fox | Greater Manchester | Pete Marsh |
+
+
 ## Appendices & Byelaws
 
 ### Appendix 1. Nominations for Pub of the Season (POTS)
