@@ -219,7 +219,7 @@ such a notice shall not invalidate any proceedings at the meeting.
 
 ### Appendix 1. Nominations for Pub of the Season (POTS)
 
-_Added to byelaws at branch meeting on Tuesday 16 th February 2016 at 
+_Added to byelaws at branch meeting on Tuesday 16th February 2016 at 
 Blundell’s Café Bar._
 
 If a pub is selected as a Pub of the Season, that pub will become ineligible
@@ -232,7 +232,7 @@ the Season award will be Spring 2017.
 
 ### Appendix 2. Voting for Pub of the Season (POTS)
 
-_Added to byelaws at branch meeting on Tuesday 16 th February 2016 at
+_Added to byelaws at branch meeting on Tuesday 16th February 2016 at
 Blundell’s Café Bar._
 
 If voting for a Pub of the Season award is taking place in a venue nominated
@@ -241,7 +241,7 @@ opposed to an open show of hands as is the regular voting method.
 
 ### Appendix 3. Best New Cask Outlet award criteria
 
-_Added to byelaws at branch AGM on Wednesday 17 th January 2018 at Wigan
+_Added to byelaws at branch AGM on Wednesday 17th January 2018 at Wigan
 Central_
 
 The award should go to a venue which has demonstrated its credentials over a
@@ -250,7 +250,7 @@ conversion to a cask outlet
 
 ### Appendix 4. Sexist or suggestive pump clips at Wigan Beer Festival
 
-_Added to byelaws at branch AGM on Wednesday 17 th January 2018 at Wigan
+_Added to byelaws at branch AGM on Wednesday 17th January 2018 at Wigan
 Central_
 
 CAMRA has clear policy on equal opportunity and discrimination. In view of this
@@ -264,7 +264,7 @@ formally challenged and if necessary reported to CAMRA’s disciplinary panel.
 
 ### Appendix 5. Voting for Pub of the Season (POTS) by proxy
 
-_12 month trial agreed at branch meeting on Tuesday 11 th April 2017 at the Tap
+_12 month trial agreed at branch meeting on Tuesday 11th April 2017 at the Tap
 ‘n’ Barrel._
 
 The new voting system was trialled for a period of twelve months and used to
@@ -301,7 +301,7 @@ investigation will be undertaken to verify the validity of the award.
 
 ### Appendix 6. Formalisation of Branch Pub of the Year (POTY) voting
 
-_Added to byelaws at branch AGM on Wednesday 16 th January 2019 at Wigan
+_Added to byelaws at branch AGM on Wednesday 16th January 2019 at Wigan
 Central_
 
 #### Eligibility for nomination
@@ -340,7 +340,7 @@ a casting vote.
 
 ### Appendix 7: Branch Chair may nominate and vote for annual awards
 
-_Added to byelaws at branch AGM on Wednesday 16 th January 2019 at Wigan
+_Added to byelaws at branch AGM on Wednesday 16th January 2019 at Wigan
 Central_
 
 This motion proposed that the convention be done away with, enabling the Chair
@@ -349,7 +349,7 @@ wish.
 
 ### Appendix 8: Qualification for LocAle award
 
-_Added to byelaws at branch AGM on Wednesday 16 th January 2019 at Wigan
+_Added to byelaws at branch AGM on Wednesday 16th January 2019 at Wigan
 Central_
 
 Criteria for qualification for LocAle award are as follows: -
