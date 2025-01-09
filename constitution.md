@@ -1,5 +1,20 @@
 # Campaign For Real Ale Wigan Branch Constitution
 
+Document Version:   5.0.1
+Date edited:        7th November 2019
+Edited by:          Sandy Motteram
+Date adopted:       16th October 2019
+
+## Branch Comittee
+
+* Chairperson:                      Sandy Motterham
+* Vice Chairperson:                 Stephen Mears
+* Treasurer:                        Brian Gleave
+* Secretary:                        Phil Healey
+* Membership Secretary:             Karen Mears
+* Additional Committee Member:      Ken Worthington
+* Additional Committee Member:      Dave Brabbin
+
 ## 1. Name
 
 The name shall be the "Campaign for Real Ale Wigan Branch" hereinafter called
@@ -56,11 +71,11 @@ business to be conducted at the AGM shall include: -
 * Appointment of Webmaster
 * Appointment of Auditors
 * AOB
- 
+
 At least 28 days’ notice of the AGM shall be given to all members of the Branch
 and to the Directors of CAMRA either by post or by a CAMRA publication which in
 the ordinary course of events will give sufficient notice. A quorum for the
-Branch AGM shall be seven members present, unless otherwise previously approved
+Branch AGM shall be seven members present, unless otherwise previously approve
 by the Regional Director or the Directors of CAMRA.
 
 ## 7. Special General Meetings
@@ -124,9 +139,9 @@ positions where no written nomination has been received.
 The Branch will ask for volunteers from the membership to be appointed to be
 Webmaster, Marketing Officer and Brewery Liaison Officer(s). If a substantive
 Branch Officer post is unfilled and there is no one willing to be co-opted for
-the full range of duties by the Branch, the Committee can appoint an assistant(s)
-to the post who is/are willing to undertake the most important aspects of the
-job until the post can be filled.
+the full range of duties by the Branch, the Committee can appoint an
+assistant(s) to the post who is/are willing to undertake the most important
+aspects of the job until the post can be filled.
 
 ## 12. Finances
 
@@ -136,10 +151,11 @@ Committee and no payments shall be made out of the Branch monies except by
 authority of the Branch Committee. The Branch Committee shall ensure that the
 Treasurer keeps proper books of Account and that all monies received are placed
 to the credit of an Account in the name of the Branch at such Bank as the
-Committee may from time to time select. Branch funds of any UK Branch shall not
-be deposited or held in Bank or other Accounts (whether interest bearing or
-not) located outside of the United Kingdom. (e.g. not to be in IOM or Channel
-Island Bank Accounts.)
+Committee may from time to time select.
+
+Branch funds of any UK Branch shall not be deposited or held in Bank or other
+Accounts (whether interest bearing or not) located outside of the United
+Kingdom. (e.g. not to be in IOM or Channel Island Bank Accounts.)
 
 Branch funds of any UK Branch, if deposited in interest paying accounts, will
 be made only in institutions where UK tax is deducted at source.
@@ -160,8 +176,8 @@ member of any Branch Committee nor a Director of CAMRA.
 
 The Accounts drawn up shall include combined Profit and Loss accounts and
 Balance Sheets indicating all monies held by the Branch or on behalf of the
-Branch relating to all activities including Beer Festivals and publications
-run by the Branch.
+Branch relating to all activities including Beer Festivals and publications run
+by the Branch.
 
 Two copies of the audited Accounts shall be lodged with CAMRA at its Registered
 Office and with the Regional Director in whose region the Branch is situated
@@ -175,7 +191,7 @@ of the Branch.
 
 ## 15. Winding Up
 
-The Branch may be wound up at any time by the Directors of CAMRA or by a 
+The Branch may be wound up at any time by the Directors of CAMRA or by a
 Special General Meeting called for that purpose, the business having been
 notified in the notice convening the same, and upon a resolution to that effect
 being passed by a majority of at least two thirds of those present and entitled
@@ -187,8 +203,8 @@ up.
 ## 16. Alteration to Constitution
 
 This Constitution may be altered only at an AGM or Special General Meeting
-called for that purpose, with the specific alteration having been stipulated
-in the notice convening the same and subject to the approval of at least two
+called for that purpose, with the specific alteration having been stipulated in
+the notice convening the same and subject to the approval of at least two
 thirds of those present and entitled to vote.
 
 Before any such alteration shall become effective it shall be approved by the
@@ -203,7 +219,7 @@ such a notice shall not invalidate any proceedings at the meeting.
 
 ### Appendix 1. Nominations for Pub of the Season (POTS)
 
-_Added to byelaws at branch meeting on Tuesday 16 th February 2016 at 
+_Added to byelaws at branch meeting on Tuesday 16th February 2016 at 
 Blundell’s Café Bar._
 
 If a pub is selected as a Pub of the Season, that pub will become ineligible
@@ -216,7 +232,7 @@ the Season award will be Spring 2017.
 
 ### Appendix 2. Voting for Pub of the Season (POTS)
 
-_Added to byelaws at branch meeting on Tuesday 16 th February 2016 at
+_Added to byelaws at branch meeting on Tuesday 16th February 2016 at
 Blundell’s Café Bar._
 
 If voting for a Pub of the Season award is taking place in a venue nominated
@@ -225,7 +241,7 @@ opposed to an open show of hands as is the regular voting method.
 
 ### Appendix 3. Best New Cask Outlet award criteria
 
-_Added to byelaws at branch AGM on Wednesday 17 th January 2018 at Wigan
+_Added to byelaws at branch AGM on Wednesday 17th January 2018 at Wigan
 Central_
 
 The award should go to a venue which has demonstrated its credentials over a
@@ -234,7 +250,7 @@ conversion to a cask outlet
 
 ### Appendix 4. Sexist or suggestive pump clips at Wigan Beer Festival
 
-_Added to byelaws at branch AGM on Wednesday 17 th January 2018 at Wigan
+_Added to byelaws at branch AGM on Wednesday 17th January 2018 at Wigan
 Central_
 
 CAMRA has clear policy on equal opportunity and discrimination. In view of this
@@ -248,14 +264,14 @@ formally challenged and if necessary reported to CAMRA’s disciplinary panel.
 
 ### Appendix 5. Voting for Pub of the Season (POTS) by proxy
 
-_12 month trial agreed at branch meeting on Tuesday 11 th April 2017 at the Tap
+_12 month trial agreed at branch meeting on Tuesday 11th April 2017 at the Tap
 ‘n’ Barrel._
 
 The new voting system was trialled for a period of twelve months and used to
-determine POTS for the following periods: Summer 2017; Autumn 2017; Winter
-2017; Spring 2018. The trial was reviewed during the branch meeting on Thursday
-19 th April 2018 at Wigan Brewhouse and permanently added to the branch
-byelaws.
+determine POTS for the following periods: Summer 2017; Autumn 2017
+Winter 2017; Spring 2018. The trial was reviewed during the branch meeting on
+Thursday 19 th April 2018 at Wigan Brewhouse and permanently added to the
+branch byelaws.
 
 A branch member who is unable to attend the meeting during which voting for
 POTS is taking place may cast her/his vote by proxy providing s/he sends
@@ -263,29 +279,34 @@ apologies for absence from the meeting along with an attending branch member.
 The apology must be written down (either on paper or via email or text message)
 and be able to be produced by the attending member at the time of voting. The
 apology should be accompanied by the wish to vote by proxy and the name of the
-pub that the member wishes to vote for. It is recommended that the absent member
-also includes her/his CAMRA membership number in the interest of checks being
-made retrospectively to ensure that the absent member’s branch membership is
-current and therefore s/he is eligible to vote for POTS.
+pub that the member wishes to vote for. It is recommended that the absent
+member also includes her/his CAMRA membership number in the interest of checks
+being made retrospectively to ensure that the absent member’s branch membership
+is current and therefore s/he is eligible to vote for POTS.
 
 #### Limitations: -
 
-* An attending member at the branch meeting may only carry a maximum of two proxy votes for absent
-members;
-* Should more than two absentees contact an attending branch member to pass on apologies,
-apologies may be accepted but only the first two proxy votes should be accepted by that member;
-* By accepting a proxy vote from a non-attending member and casting it on her/his behalf, the attending
-member is vouching for the eligibility of the absent member to vote;
-* Should any abuse of the voting system be discovered either at the time of voting or afterwards,
-appropriate disciplinary measures will be taken;
-* Should any abuse of the voting system be discovered either at the time of voting or afterwards, an
-investigation will be undertaken to verify the validity of the award.
-* The number of meetings a member has attended does not affect her/his right to vote;
-* An absent member must directly ask an attending member to pass on apologies and vote;
+* An attending member at the branch meeting may only carry a maximum of two proxy
+    votes for absent members;
+* Should more than two absentees contact an attending branch member to pass on
+    apologies, apologies may be accepted but only the first two proxy votes
+    should be accepted by that member;
+* By accepting a proxy vote from a non-attending member and casting it on
+    her/his behalf, the attending member is vouching for the eligibility of the
+    absent member to vote;
+* Should any abuse of the voting system be discovered either at the time of
+    voting or afterwards, appropriate disciplinary measures will be taken;
+* Should any abuse of the voting system be discovered either at the time of
+    voting or afterwards, an investigation will be undertaken to verify the
+    validity of the award.
+* The number of meetings a member has attended does not affect her/his right to
+    vote;
+* An absent member must directly ask an attending member to pass on apologies
+    and vote;
 
 ### Appendix 6. Formalisation of Branch Pub of the Year (POTY) voting
 
-_Added to byelaws at branch AGM on Wednesday 16 th January 2019 at Wigan
+_Added to byelaws at branch AGM on Wednesday 16th January 2019 at Wigan
 Central_
 
 #### Eligibility for nomination
@@ -316,15 +337,15 @@ Chair) will determine the most appropriate way to form the shortlist.
 #### Voting – phase two
 
 Each attending branch member will have the option to take part in a secret
-ballot (regardless of meeting location). Members may vote for a single pub
-from the shortlist during this phase. The votes will be collected and counted
-and the pub with the greatest number of votes shall win Branch POTY. In the
-case of a tie, the Branch Chair (or Acting Chair) will break the deadlock with
-a casting vote.
+ballot (regardless of meeting location). Members may vote for a single pub from
+the shortlist during this phase. The votes will be collected and counted and
+the pub with the greatest number of votes shall win Branch POTY. In the case of
+a tie, the Branch Chair (or Acting Chair) will break the deadlock with a casting
+vote.
 
 ### Appendix 7: Branch Chair may nominate and vote for annual awards
 
-_Added to byelaws at branch AGM on Wednesday 16 th January 2019 at Wigan
+_Added to byelaws at branch AGM on Wednesday 16th January 2019 at Wigan
 Central_
 
 This motion proposed that the convention be done away with, enabling the Chair
@@ -333,7 +354,7 @@ wish.
 
 ### Appendix 8: Qualification for LocAle award
 
-_Added to byelaws at branch AGM on Wednesday 16 th January 2019 at Wigan
+_Added to byelaws at branch AGM on Wednesday 16th January 2019 at Wigan
 Central_
 
 Criteria for qualification for LocAle award are as follows: -
