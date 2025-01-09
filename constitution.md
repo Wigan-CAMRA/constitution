@@ -176,8 +176,8 @@ member of any Branch Committee nor a Director of CAMRA.
 
 The Accounts drawn up shall include combined Profit and Loss accounts and
 Balance Sheets indicating all monies held by the Branch or on behalf of the
-Branch relating to all activities including Beer Festivals and publications
-run by the Branch.
+Branch relating to all activities including Beer Festivals and publications run
+by the Branch.
 
 Two copies of the audited Accounts shall be lodged with CAMRA at its Registered
 Office and with the Regional Director in whose region the Branch is situated
