@@ -203,8 +203,8 @@ up.
 ## 16. Alteration to Constitution
 
 This Constitution may be altered only at an AGM or Special General Meeting
-called for that purpose, with the specific alteration having been stipulated
-in the notice convening the same and subject to the approval of at least two
+called for that purpose, with the specific alteration having been stipulated in
+the notice convening the same and subject to the approval of at least two
 thirds of those present and entitled to vote.
 
 Before any such alteration shall become effective it shall be approved by the
