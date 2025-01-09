@@ -337,11 +337,11 @@ Chair) will determine the most appropriate way to form the shortlist.
 #### Voting – phase two
 
 Each attending branch member will have the option to take part in a secret
-ballot (regardless of meeting location). Members may vote for a single pub
-from the shortlist during this phase. The votes will be collected and counted
-and the pub with the greatest number of votes shall win Branch POTY. In the
-case of a tie, the Branch Chair (or Acting Chair) will break the deadlock with
-a casting vote.
+ballot (regardless of meeting location). Members may vote for a single pub from
+the shortlist during this phase. The votes will be collected and counted and
+the pub with the greatest number of votes shall win Branch POTY. In the case of
+a tie, the Branch Chair (or Acting Chair) will break the deadlock with a casting
+vote.
 
 ### Appendix 7: Branch Chair may nominate and vote for annual awards
 
