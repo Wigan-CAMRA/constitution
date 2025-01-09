@@ -478,3 +478,41 @@ Should the member appointed as Social Secretary become unable to fulfil the
 role, an officer appointed as Social Officer should be nominated to temporarily
 fill the role until a permanent appointment to the role of Social Secretary can
 be made.
+
+### Appendix 10: Sub-committee to fulfil the role of Branch Secretary
+
+_Added to byelaws at branch AGM on Tuesday 14 th January 2020 at Wigan Central_
+
+A sub-committee will fulfil the duties required by the Branch Secretary,
+dividing the responsibilities between a number of officers in order to make the
+role more manageable.
+
+The sub-committee will be headed up by one officer, with the title of Branch
+Secretary, as per CAMRA’s requirements. The Branch Secretary will remain a
+branch committee member and report to the Branch Chair as per the current
+Branch Constitution.
+
+A number of officers may be elected to the new role of Admin Officer. The
+Admin Officer role will report to the Branch Secretary.
+
+Some activities in the official role description are already covered by other
+officers within the branch. The activities that would be required from the
+sub-committee are: -
+
+* Collate officer reports for monthly, quarterly and annual meetings;
+* Circulate agendas and any supporting papers in good time;
+* Check that a quorum is present at meetings;
+* Circulate agendas and minutes of the annual general meeting (AGM) and any
+    special or extraordinary general meetings within the time specified by the
+    Branch constitution;
+* Ensure up-to-date records are kept of committee membership and any changes
+    are made on the Membership Database with a note to the Regional Director;
+* Respond to all committee correspondence;
+* Publicise meetings, events and festivals via What’s Brewing / Branch magazine
+    /Branch website /social media;
+* Order certificates from CAMRA’s print portal for branch and festival awards.
+
+Should the member appointed as Branch Secretary become unable to fulfil the
+role, an officer appointed as Admin Officer should be nominated to temporarily
+fill the role until a permanent appointment to the role of Branch Secretary can
+be made.
