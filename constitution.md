@@ -10,7 +10,7 @@ Date adopted:       16th October 2019
 * Chairperson:                      Sandy Motterham
 * Vice Chairperson:                 Stephen Mears
 * Treasurer:                        Brian Gleave
-* Secretary:                        Phil Healey
+* Secretary:                        Stuart Easton
 * Membership Secretary:             Karen Mears
 * Additional Committee Member:      Ken Worthington
 * Additional Committee Member:      Dave Brabbin
@@ -75,7 +75,7 @@ business to be conducted at the AGM shall include: -
 At least 28 days’ notice of the AGM shall be given to all members of the Branch
 and to the Directors of CAMRA either by post or by a CAMRA publication which in
 the ordinary course of events will give sufficient notice. A quorum for the
-Branch AGM shall be seven members present, unless otherwise previously approve
+Branch AGM shall be seven members present, unless otherwise previously approved
 by the Regional Director or the Directors of CAMRA.
 
 ## 7. Special General Meetings
@@ -214,6 +214,65 @@ Directors of CAMRA or their duly authorised representative.
 
 The accidental omission to give notice of any meeting to any person entitled to
 such a notice shall not invalidate any proceedings at the meeting.
+
+## 18. Current branch officers
+
+### Committee
+
+| Role | Officer |
+|-|-|
+| Chair | Sandy Motteram |
+| Vice Chair | Stephen Mears |
+| Treasurer | Brian Gleave |
+| Secretary | Stuart Easton |
+| Membership Secretary | Karen Mears |
+| Committee Member | Ken Worthington |
+| Committee Member | Dave Brabbin
+
+### Other officers
+
+| Role | Officer |
+|-|-|
+| Admin Officer | Karen Mears |
+| Admin Officer | Lisa Whittle |
+| Auditor (1) | Alan Robinson |
+| Auditor (2) | Bill Bradbury |
+| Auditor (3) | Daniel Carson |
+| Cider Representative | Carol Worthington |
+| Clubs Officer | Stephen Mears |
+| GBG Co-ordinator | Darrell Lawton |
+| Health and Safety Officer | George Valentine |
+| Local Guide Officer | Roy Pearson |
+| LocAle Coordinator | Stuart Easton |
+| Magazine Editor | Joanne Greenall |
+| Minutes Secretary | Philip Healey |
+| Press and Publicity Officer | Roy Pearson |
+| Pub Campaigns Coordinator | Stephen Mears |
+| Pub Protection Officer | Pete Marsh |
+| Public Affairs Officer | Dorothy Abbott |
+| Public Transport Officer | Stephen Brindle |
+| Social Media Coordinator | Roy Pearson |
+| Social Secretary | Stephen Brindle |
+| Social Officer | Joanne Greenall |
+| Social Officer | Julie Atha |
+| Social Officer | Stuart Hurst |
+| Training Co-ordinator | Dave Whittle |
+| Website Coordinator | Roy Pearson |
+
+### Brewery Liaison Officers (BLOs) (appointed regionally, rather than by the branch)
+
+| Brewery | Region | BLO |
+|-|-|-|
+| Clay Brow | Lancashire | Stuart Easton |
+| Hophurst | Greater Manchester | Darrell Lawton |
+| Martland Mill | Greater Manchester | Andrew Greenough |
+| Mayflower | Greater Manchester | Ken Worthington |
+| Problem Child | Lancashire | Nick Clarke |
+| Prospect | Greater Manchester | Carol Worthington |
+| Twisted Wheel | Greater Manchester | Dave Brabbin |
+| Wigan Brewhouse | Greater Manchester | Stephen Mears |
+| Wily Fox | Greater Manchester | Pete Marsh |
+
 
 ## Appendices & Byelaws
 
@@ -380,3 +439,80 @@ negative findings from those visits. Naturally, there may be times when a
 barrel of real ale has to be changed and a new locally brewed real ale might
 not be immediately available. That should be taken into consideration when
 considering eligibility.
+
+### Appendix 9: Sub-committee to fulfil the role of Social Secretary
+
+_Added to byelaws at branch AGM on Tuesday 14th January 2020 at Wigan Central_
+
+A sub-committee will fulfil the duties required by the Social Secretary,
+dividing the responsibilities between a number of officers in order to make the
+role more manageable.
+
+The sub-committee will be headed up by one officer, with the title of Social
+Secretary. The Social Secretary will report directly to the Branch Chair
+
+A number of officers may be elected to the role of Social Officer. The Social
+Officer role will report to the Social Secretary.
+
+Some activities in the official role description are already covered by other
+officers within the branch and some do not particularly fit the way that the
+branch currently operates, therefore the activities that would be required from
+the sub-committee are: -
+
+* Plan social trips, locally and farther afield, for current and prospective
+    branch members;
+* Plan an annual ‘Festival Volunteers Thankyou Trip’ for volunteers at Wigan
+    Beer Festival;
+* Attend branch meetings, festival planning meetings and other event meetings
+    (e.g. Wigan Beer Week planning meetings) to feed into discussions
+    surrounding social trips;
+* Liaise with the Transport Officer for arrangements for transport for social
+    trips;
+* Liaise with the relevant BLO(s) when visiting breweries inside or outside of
+    the branch;
+* Contact planned venues to make arrangements - rooms, catering, timings etc;
+* Organise transport and accommodation where necessary;
+* Liaise with social secretaries in other Branches on joint events;
+
+Should the member appointed as Social Secretary become unable to fulfil the
+role, an officer appointed as Social Officer should be nominated to temporarily
+fill the role until a permanent appointment to the role of Social Secretary can
+be made.
+
+### Appendix 10: Sub-committee to fulfil the role of Branch Secretary
+
+_Added to byelaws at branch AGM on Tuesday 14 th January 2020 at Wigan Central_
+
+A sub-committee will fulfil the duties required by the Branch Secretary,
+dividing the responsibilities between a number of officers in order to make the
+role more manageable.
+
+The sub-committee will be headed up by one officer, with the title of Branch
+Secretary, as per CAMRA’s requirements. The Branch Secretary will remain a
+branch committee member and report to the Branch Chair as per the current
+Branch Constitution.
+
+A number of officers may be elected to the new role of Admin Officer. The
+Admin Officer role will report to the Branch Secretary.
+
+Some activities in the official role description are already covered by other
+officers within the branch. The activities that would be required from the
+sub-committee are: -
+
+* Collate officer reports for monthly, quarterly and annual meetings;
+* Circulate agendas and any supporting papers in good time;
+* Check that a quorum is present at meetings;
+* Circulate agendas and minutes of the annual general meeting (AGM) and any
+    special or extraordinary general meetings within the time specified by the
+    Branch constitution;
+* Ensure up-to-date records are kept of committee membership and any changes
+    are made on the Membership Database with a note to the Regional Director;
+* Respond to all committee correspondence;
+* Publicise meetings, events and festivals via What’s Brewing / Branch magazine
+    /Branch website /social media;
+* Order certificates from CAMRA’s print portal for branch and festival awards.
+
+Should the member appointed as Branch Secretary become unable to fulfil the
+role, an officer appointed as Admin Officer should be nominated to temporarily
+fill the role until a permanent appointment to the role of Branch Secretary can
+be made.
