@@ -268,10 +268,10 @@ _12 month trial agreed at branch meeting on Tuesday 11th April 2017 at the Tap
 ‘n’ Barrel._
 
 The new voting system was trialled for a period of twelve months and used to
-determine POTS for the following periods: Summer 2017; Autumn 2017; Winter
-2017; Spring 2018. The trial was reviewed during the branch meeting on Thursday
-19 th April 2018 at Wigan Brewhouse and permanently added to the branch
-byelaws.
+determine POTS for the following periods: Summer 2017; Autumn 2017
+Winter 2017; Spring 2018. The trial was reviewed during the branch meeting on
+Thursday 19 th April 2018 at Wigan Brewhouse and permanently added to the
+branch byelaws.
 
 A branch member who is unable to attend the meeting during which voting for
 POTS is taking place may cast her/his vote by proxy providing s/he sends
@@ -279,25 +279,30 @@ apologies for absence from the meeting along with an attending branch member.
 The apology must be written down (either on paper or via email or text message)
 and be able to be produced by the attending member at the time of voting. The
 apology should be accompanied by the wish to vote by proxy and the name of the
-pub that the member wishes to vote for. It is recommended that the absent member
-also includes her/his CAMRA membership number in the interest of checks being
-made retrospectively to ensure that the absent member’s branch membership is
-current and therefore s/he is eligible to vote for POTS.
+pub that the member wishes to vote for. It is recommended that the absent
+member also includes her/his CAMRA membership number in the interest of checks
+being made retrospectively to ensure that the absent member’s branch membership
+is current and therefore s/he is eligible to vote for POTS.
 
 #### Limitations: -
 
-* An attending member at the branch meeting may only carry a maximum of two proxy votes for absent
-members;
-* Should more than two absentees contact an attending branch member to pass on apologies,
-apologies may be accepted but only the first two proxy votes should be accepted by that member;
-* By accepting a proxy vote from a non-attending member and casting it on her/his behalf, the attending
-member is vouching for the eligibility of the absent member to vote;
-* Should any abuse of the voting system be discovered either at the time of voting or afterwards,
-appropriate disciplinary measures will be taken;
-* Should any abuse of the voting system be discovered either at the time of voting or afterwards, an
-investigation will be undertaken to verify the validity of the award.
-* The number of meetings a member has attended does not affect her/his right to vote;
-* An absent member must directly ask an attending member to pass on apologies and vote;
+* An attending member at the branch meeting may only carry a maximum of two proxy
+    votes for absent members;
+* Should more than two absentees contact an attending branch member to pass on
+    apologies, apologies may be accepted but only the first two proxy votes
+    should be accepted by that member;
+* By accepting a proxy vote from a non-attending member and casting it on
+    her/his behalf, the attending member is vouching for the eligibility of the
+    absent member to vote;
+* Should any abuse of the voting system be discovered either at the time of
+    voting or afterwards, appropriate disciplinary measures will be taken;
+* Should any abuse of the voting system be discovered either at the time of
+    voting or afterwards, an investigation will be undertaken to verify the
+    validity of the award.
+* The number of meetings a member has attended does not affect her/his right to
+    vote;
+* An absent member must directly ask an attending member to pass on apologies
+    and vote;
 
 ### Appendix 6. Formalisation of Branch Pub of the Year (POTY) voting
 
