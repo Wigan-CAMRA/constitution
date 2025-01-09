@@ -139,9 +139,9 @@ positions where no written nomination has been received.
 The Branch will ask for volunteers from the membership to be appointed to be
 Webmaster, Marketing Officer and Brewery Liaison Officer(s). If a substantive
 Branch Officer post is unfilled and there is no one willing to be co-opted for
-the full range of duties by the Branch, the Committee can appoint an assistant(s)
-to the post who is/are willing to undertake the most important aspects of the
-job until the post can be filled.
+the full range of duties by the Branch, the Committee can appoint an
+assistant(s) to the post who is/are willing to undertake the most important
+aspects of the job until the post can be filled.
 
 ## 12. Finances
 
