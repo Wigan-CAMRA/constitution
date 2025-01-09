@@ -151,10 +151,11 @@ Committee and no payments shall be made out of the Branch monies except by
 authority of the Branch Committee. The Branch Committee shall ensure that the
 Treasurer keeps proper books of Account and that all monies received are placed
 to the credit of an Account in the name of the Branch at such Bank as the
-Committee may from time to time select. Branch funds of any UK Branch shall not
-be deposited or held in Bank or other Accounts (whether interest bearing or
-not) located outside of the United Kingdom. (e.g. not to be in IOM or Channel
-Island Bank Accounts.)
+Committee may from time to time select.
+
+Branch funds of any UK Branch shall not be deposited or held in Bank or other
+Accounts (whether interest bearing or not) located outside of the United
+Kingdom. (e.g. not to be in IOM or Channel Island Bank Accounts.)
 
 Branch funds of any UK Branch, if deposited in interest paying accounts, will
 be made only in institutions where UK tax is deducted at source.
