@@ -10,7 +10,7 @@ Date adopted:       16th October 2019
 * Chairperson:                      Sandy Motterham
 * Vice Chairperson:                 Stephen Mears
 * Treasurer:                        Brian Gleave
-* Secretary:                        Phil Healey
+* Secretary:                        Stuart Easton
 * Membership Secretary:             Karen Mears
 * Additional Committee Member:      Ken Worthington
 * Additional Committee Member:      Dave Brabbin
