@@ -71,11 +71,11 @@ business to be conducted at the AGM shall include: -
 * Appointment of Webmaster
 * Appointment of Auditors
 * AOB
- 
+
 At least 28 days’ notice of the AGM shall be given to all members of the Branch
 and to the Directors of CAMRA either by post or by a CAMRA publication which in
 the ordinary course of events will give sufficient notice. A quorum for the
-Branch AGM shall be seven members present, unless otherwise previously approved
+Branch AGM shall be seven members present, unless otherwise previously approve
 by the Regional Director or the Directors of CAMRA.
 
 ## 7. Special General Meetings
