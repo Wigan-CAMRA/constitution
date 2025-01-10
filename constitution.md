@@ -128,7 +128,7 @@ the AGM or special meeting to decide who will fulfil the role. Verbal
 nominations at the AGM or Special Meeting will only be accepted for vacant
 positions where no written nomination has been received.
 
-## 12. Finances
+## 11. Finances
 
 The financial year of the Branch shall commence on the first day of January in
 each year. The assets of the Branch shall be under the control of the Branch
@@ -153,7 +153,7 @@ All books relating to the finances of the Branch shall be produced to the
 Directors of CAMRA or their duly authorised representative on demand, on seven
 days clear notice to the Branch.
 
-## 13. Audit
+## 12. Audit
 
 The Accounts of the Branch in each year shall be audited either by a
 professional auditor or by two members of CAMRA, neither of whom shall be a
@@ -168,13 +168,13 @@ Two copies of the audited Accounts shall be lodged with CAMRA at its Registered
 Office and with the Regional Director in whose region the Branch is situated
 within one month of the date of the Annual General Meeting.
 
-# 14. Bye Laws
+# 13. Byelaws
 
 The Branch Committee shall have power (unless and until overruled by the Branch
 in General Meeting) to adopt Bye-Laws for the better furtherance of the objects
 of the Branch.
 
-## 15. Winding Up
+## 14. Winding Up
 
 The Branch may be wound up at any time by the Directors of CAMRA or by a
 Special General Meeting called for that purpose, the business having been
@@ -185,7 +185,7 @@ proper liabilities of the Branch and any surplus thereafter shall be paid to
 CAMRA. If the Branch membership falls below twenty-five the Branch may be wound
 up.
 
-## 16. Alteration to Constitution
+## 15. Alteration to Constitution
 
 This Constitution may be altered only at an AGM or Special General Meeting
 called for that purpose, with the specific alteration having been stipulated in
@@ -195,12 +195,12 @@ thirds of those present and entitled to vote.
 Before any such alteration shall become effective it shall be approved by the
 Directors of CAMRA or their duly authorised representative.
 
-## 17. Notice
+## 16. Notice
 
 The accidental omission to give notice of any meeting to any person entitled to
 such a notice shall not invalidate any proceedings at the meeting.
 
-## 18. Current branch officers
+## 17. Current branch officers
 
 ### Committee
 
