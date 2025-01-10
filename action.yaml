@@ -1,0 +1,27 @@
+name: 'PDF Document Generation'
+description: 'Generate the constitution PDF document'
+
+on: push
+branches:
+  - main
+
+jobs:
+  pandoc-generation:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: create build directory
+        run: mkdir build
+      
+      - name: PDF generation
+        - uses: docker://pandoc/core:3.5
+          with:
+            args:
+              - constitution.md --standalone --output build/constitution.pdf
+      
+      - name: Save artifacts
+        - uses: actions/upload-artifact@v4
+          with:
+            name: build
+            path: build
