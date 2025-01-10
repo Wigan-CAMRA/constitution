@@ -48,7 +48,7 @@ Branch Committee members only. This should be done on an ad-hoc basis and only
 called when necessary to progress specific aspects of Branch business. The
 Branch Committee and any member of the Branch may put forward resolutions or
 bye-laws at such meetings to be discussed and voted upon. For the meeting to be
-quorate there shall not be less than 4 members of the Branch Committee in
+quorate there shall not be less than three members of the Branch Committee in
 attendance.
 
 ## 6. Annual General Meetings
