@@ -221,58 +221,54 @@ such a notice shall not invalidate any proceedings at the meeting.
 
 | Role | Officer |
 |-|-|
-| Chair | Sandy Motteram |
-| Vice Chair | Stephen Mears |
-| Treasurer | Brian Gleave |
-| Secretary | Stuart Easton |
-| Membership Secretary | Karen Mears |
-| Committee Member | Ken Worthington |
-| Committee Member | Dave Brabbin
+| [Chair](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13135436/Branch-Chair-summary-CHECKED-1.pdf) | Sandy Motteram |
+| [Vice Chair](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13135522/Branch-Vice-Chair-summary-CHECKED.pdf) | Stephen Mears |
+| [Treasurer](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/03124141/Branch-Treasurer-summary-CHECKED.pdf) | Brian Gleave |
+| [Secretary](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/03124041/Branch-Secretary-summary-CHECKED.pdf) | Stuart Easton |
+| [Membership Secretary](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/03124328/Membership-Secretary-summary-CHECKED.pdf) | Karen Mears |
+| Additional Committee Members | Ken Worthington & Dave Brabbin |
 
 ### Other officers
 
 | Role | Officer |
 |-|-|
-| Admin Officer | Karen Mears |
-| Admin Officer | Lisa Whittle |
-| Auditor (1) | Alan Robinson |
-| Auditor (2) | Bill Bradbury |
-| Auditor (3) | Daniel Carson |
-| Cider Representative | Carol Worthington |
-| Clubs Officer | Stephen Mears |
-| GBG Co-ordinator | Darrell Lawton |
-| Health and Safety Officer | George Valentine |
-| Local Guide Officer | Roy Pearson |
-| LocAle Coordinator | Stuart Easton |
-| Magazine Editor | Joanne Greenall |
+| [Accounts Examiners](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13140001/Accounts-Examiner-summary.pdf) | Daniel Carson <br> Stephen Mears |
+| Admin Officers | Karen Mears |
+| Branch Contact | Stuart Easton |
+| [Cider Representative](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13143527/Cider-Representative-summary.pdf) | Carol Worthington |
+| [Clubs Coordinator](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13143554/Clubs-Co-ordinator-summary.pdf) | [vacant] |
+| [GBG Submissions Co-ordinators](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13140125/GBG-Submissions-Co-ordinator-summary.pdf) | Ken Worthington <br> Sandy Motteram <br> Pete Marsh |
+| Health and Safety Officers | George Valentine <br> Carol Worthington |
+| [Learning & Discovery Coordinator](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/20145712/Learning-Discovery-Co-ordinator-summary-edited.pdf) | Dave Whittle
+| [Local Guide Editor](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/12/11122448/Local-Guide-or-Ale-Trail-Editor-Summary.pdf) | Shelley Wright |
+| [LocAle Coordinator](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13143651/Pub-Promotions-and-Awards-Co-ordinator-summary.pdf) | Stuart Easton |
+| [Magazine Editor](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/20120817/Magazine-Editor-summary.pdf) | Shelley Wright |
+| [Media Contact](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13140257/Media-Contact-summary.pdf) | Brain Gleave <br> Dorothy Abbott |
 | Minutes Secretary | Philip Healey |
-| Press and Publicity Officer | Roy Pearson |
-| Pub Campaigns Coordinator | Stephen Mears |
-| Pub Protection Officer | Pete Marsh |
-| Public Affairs Officer | Dorothy Abbott |
+| [Pub Campaigns Coordinator](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13145403/Pub-Campaigns-Co-ordinator-summary.pdf) | John Brearley |
+| [Pub Data Co-ordinators](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13135800/Pub-Data-Co-ordinator-summary-CHECKED.pdf) | Sandy Motteram <br> Ken Worthington |
+| [Pub Protection Officer](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13143714/Pub-Protection-Officer-summary.pdf) | Pete Marsh |
+| [Public Affairs Contact](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13143731/Public-Affairs-Contact-summary.pdf) | Dorothy Abbott |
 | Public Transport Officer | Stephen Brindle |
-| Social Media Coordinator | Roy Pearson |
-| Social Secretary | Stephen Brindle |
-| Social Officer | Joanne Greenall |
-| Social Officer | Julie Atha |
-| Social Officer | Stuart Hurst |
-| Training Co-ordinator | Dave Whittle |
-| Website Coordinator | Roy Pearson |
+| [Social Media Coordinator](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13140431/Social-Media-Co-ordinator-summary.pdf) | Stuart Easton |
+| [Social Secretary](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13143747/Social-Secretary-summary.pdf) | Stuart Easton |
+| [Social Officer](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13143747/Social-Secretary-summary.pdf) | Sandy Motteram <br> Cat Barclay <br> Iain Wright |
+| [Website Coordinator](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13140545/Website-Co-ordinator-summary.pdf) | Mike Fergie |
+| [Young Members' Contact](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13143803/Young-Members-Contact-summary.pdf) | Cat Barclay |
 
 ### Brewery Liaison Officers (BLOs) (appointed regionally, rather than by the branch)
 
 | Brewery | Region | BLO |
 |-|-|-|
-| Clay Brow | Lancashire | Stuart Easton |
-| Hophurst | Greater Manchester | Darrell Lawton |
-| Martland Mill | Greater Manchester | Andrew Greenough |
-| Mayflower | Greater Manchester | Ken Worthington |
-| Problem Child | Lancashire | Nick Clarke |
-| Prospect | Greater Manchester | Carol Worthington |
-| Twisted Wheel | Greater Manchester | Dave Brabbin |
-| Wigan Brewhouse | Greater Manchester | Stephen Mears |
-| Wily Fox | Greater Manchester | Pete Marsh |
-
+| [Clay Brow](https://branch.wigancamra.org.uk/2019/04/02/clay-brow-nano-brewery/) (Skelmersdale) | Lancashire | Stuart Easton |
+| [Hophurst](https://branch.wigancamra.org.uk/local-breweries/hophurst-brewery/) (Hindley) | Greater Manchester | Darrell Lawton |
+| [Martland Mill](https://branch.wigancamra.org.uk/local-breweries/martland-mill-brewery/) (Wigan) | Greater Manchester | Andrew Greenough |
+| [Mayflower](https://branch.wigancamra.org.uk/local-breweries/mayflower-brewery/) (Hindley) | Greater Manchester | Ken Worthington |
+| [Problem Child](https://branch.wigancamra.org.uk/2016/10/28/problem-child-brewery/) (Parbold) | Lancashire | Nick Clarke |
+| [Prospect](https://branch.wigancamra.org.uk/local-breweries/prospect-brewery/) (Wigan) | Greater Manchester | Carol Worthington |
+| [State of Kind](https://branch.wigancamra.org.uk/2021/10/08/state-of-kind-brew-co/) (Ince) | Greater Manchester | Dave Brabbin |
+| [Wigan Brewhouse](https://branch.wigancamra.org.uk/2018/01/20/wigan-brewhouse/) (Wigan) | Greater Manchester | Stephen Mears |
+| [Wily Fox](https://branch.wigancamra.org.uk/2016/10/28/wily-fox-brewery/) (Wigan) | Greater Manchester | Pete Marsh |
 
 ## Appendices & Byelaws
 
@@ -516,3 +512,257 @@ Should the member appointed as Branch Secretary become unable to fulfil the
 role, an officer appointed as Admin Officer should be nominated to temporarily
 fill the role until a permanent appointment to the role of Branch Secretary can
 be made.
+
+### Appendix 11: New Processes for Annual Awards
+
+_Added to byelaws at branch AGM on Thursday 13th January 2022 at Real Crafty_
+
+#### Timeline
+
+##### March – Encourage members to opt-in to emails at Wigan Beer Festival
+
+During the Wigan Beer Festival, branch members will be encouraged on entry to
+opt-in to receive branch communications by email so that they can take part in
+our annual awards process. This can be performed in a non-time-consuming way
+either with flyers or posters in the hall with website addresses and/or QR
+codes with direct links to the CAMRA website where members can update their
+details and amend their communication preferences.
+
+##### April – Email members, asking for feedback from the festival
+
+Send out branch communications via CAMRA’s comm’s tool, asking members for
+feedback from the Beer Festival. A feedback form will be designed and shared
+using an online form. This will begin to engage members and get them used to
+responding to our requests.
+
+##### June – Rules for awards
+
+Send out branch communications via CAMRA’s comm’s tool, outlining the rules and
+process for our annual awards.
+
+##### August – POTY Round 1
+
+Send out branch communications via CAMRA’s comm’s tool with a link to a web
+form. The form will have a drop-down list of all pubs in our branch area that
+are marked as providing real ale. There will also be an option for ‘other’,
+enabling a member to nominate a pub that we might not currently know serves
+real ale. The branch can then investigate and update its records accordingly,
+improving the quality of information we hold.
+
+###### Automatic entry into Long List
+
+The ‘long list’ will contain some automatic nominations, providing those pubs
+are currently eligible for entry into the GBG as per the branch processes at
+the time.
+
+For clarity, current branch criteria for eligibility for entry into the GBG
+are: -
+
+* The pub must have continuously served real ale and/or real cider and/or real
+    perry for a period of at least four months to a consistently good standard.
+* The pub must not have had a change of licensee within the previous four
+    months, except under exceptional circumstances wherein the new licensee has
+    a recent proven track record locally.
+
+Any changes to branch processes for GBG eligibility will supersede the above
+criteria.
+
+The automatic entries into the list of 50 will be: -
+
+* Pubs in the current published edition of CAMRA’s Good Beer Guide (GBG)
+* Pubs that won one of the four annual awards at the last AGM
+* Pubs that won POTS within the last 12 months
+
+Under normal circumstances, between 20 and 29 pubs will therefore automatically
+enter the long list. The remaining spaces will be taken by those pubs that
+receive the greatest number of votes.
+
+Pubs receiving zero votes will not be added to the long list, automatically or
+otherwise.
+
+In the event of a tie, scores from NBSS will be used to break the deadlock. If
+there is still a tie, the length of the long list will be reduced, removing the
+lowest-scoring pubs.
+
+##### September –CPOTY Round 1 and shortlist
+
+Send out branch communications via CAMRA’s comm’s tool with a link to a web
+form. The form will have a drop-down list of all pubs in our branch area that
+are marked as providing real cider and/or real perry. There will also be an
+option for ‘other’, enabling a member to nominate a pub that we might not
+currently know serves real cider or real perry. The branch can then investigate
+and update its records accordingly, improving the quality of information we
+hold.
+
+There are currently 24 pubs in WhatPub/Pubzilla that are marked as ‘Real Cider
+outlets’ although that list likely needs to be reviewed in light of the
+recently amended
+[definitions of Real Cider and Perry](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2021/05/26114428/Cider-definition-May-2021-final.pdf)
+from CAMRA (as updated May 2021).
+
+A shortlist of up to five pubs will be formed from the pubs with the greatest
+number of votes on the web form. The pub that was awarded CPOTY at the most
+recent branch AGM will automatically enter the shortlist alongside up to four
+other pubs, providing that it meets the GBG criteria as described above.
+
+Pubs receiving zero votes will not be added to the shortlist, automatically or
+otherwise.
+
+In the event of a tie, scores from NBSS will be used to break the deadlock. If
+there is still a tie, the length of the shortlist will be reduced, removing the
+lowest-scoring pubs.
+
+##### September – COTY Round 1 and shortlist
+
+Send out branch communications via CAMRA’s comm’s tool with a link to a web
+form. The form will have a drop-down list of all clubs that are marked as
+providing real ale, real cider or real perry. There will also be options for
+‘other’, enabling a member to nominate a club that serves real ale, real cider
+or real perry. The branch can then investigate and update its records
+accordingly, improving the quality of information we hold.
+
+There are currently eight clubs in WhatPub/Pubzilla that are marked as ‘Real
+Ale outlets’. There are zero clubs that are marked as real cider outlets.
+
+A shortlist of up to five clubs will be formed from the clubs with the greatest
+number of votes on the web form. The club that was awarded COTY at the most
+recent branch AGM will automatically enter the shortlist alongside up to four
+other clubs, providing that it meets the GBG criteria as described above.
+
+Clubs receiving zero votes will not be added to the shortlist, automatically or
+otherwise.
+
+In the event of a tie, scores from NBSS will be used to break the deadlock. If
+there is still a tie, the length of the shortlist will be reduced, removing the
+lowest-scoring clubs.
+
+##### October – POTY Round 2 – long list to shortlist
+
+Send out branch communications via CAMRA’s comm’s tool with a link to a web
+form. The form will have a drop-down list of the long list of up to 50 pubs.
+
+Members will be asked to vote for the best pub from the long list in order to
+form a shortlist of up to ten pubs.
+
+The pub that was awarded POTY at the most recent branch AGM will automatically
+enter the shortlist alongside up to nine other pubs, providing that it meets
+the GBG criteria as described above.
+
+Pubs receiving zero votes will not be added to the shortlist, automatically or
+otherwise.
+
+In the event of a tie, scores from NBSS will be used to break the deadlock. If
+there is still a tie, the length of the long list will be reduced, removing the
+lowest-scoring pubs.
+
+##### November – Judging
+
+Send out branch communications via CAMRA’s comm’s tool announcing the
+shortlists for POTY, CPOTY and COTY.
+
+Judges will be appointed by the branch from the branch membership. There will
+be no limit to the number of judges. Judges may judge one, two or all three
+award categories.
+
+Judges must judge and record a complete set of scores for each of the venues on
+the shortlist for the category or categories they are judging, or the scores
+will not count.
+
+Judging will be conducted as per the current CAMRA guidelines and scoring
+sheets as per the regional round of the respective competition.
+
+Scores must be recorded by the end of December in order to be counted.
+
+The Annual Awards Subcommittee (if still formed) or Branch Committee (if the
+Subcommittee has since been disbanded) reserve the right to challenge what is
+perceived to be abnormal scoring during the judging process. If the relevant
+committee is not satisfied following a challenge, sets of abnormal scores may
+be rejected.
+
+The winners of POTY, CPOTY and COTY will be the pub/club with the highest
+average score following the judging process. In the event of a tie, scores from
+NBSS will be used to break the deadlock. If there is still a tie, the winner
+will be chosen by the result of a secret ballot of members attending the AGM.
+If there continues to be a tie, the Branch Chair (or Acting Chair, should the
+Branch Chair not be chairing the AGM) must break the deadlock with a casting
+vote. The POTY, CPOTY and COTY awards must not be shared, in order that a
+pub/club may progress to the regional round of the respective national
+competition.
+
+##### November – BNCO suggestions
+
+Send out branch communications via CAMRA’s comm’s tool asking our members to
+nominate pubs for the BNCO award, including as much information as possible to
+help determine eligibility.
+
+A list of pubs will be formed from the nominations that meet the eligibility
+criteria.
+
+##### December – Nominations for ComPOTY
+
+Send out branch communications via CAMRA’s comm’s tool asking our members to
+nominate pubs for the ComPOTY award, including descriptive reasons why the pub
+is an asset to the community and therefore deserving of the award.
+
+A list of pubs will be formed from the nominations.
+
+##### January – Encourage members to attend the AGM for BNCO &amp; ComPOTY
+
+Send out branch communications via CAMRA’s comm’s tool encouraging members to
+attend the AGM to vote for BNCO and ComPOTY awards.
+
+Voting for those two awards will take place exclusively in-person at the Branch
+AGM. No online or proxy votes may be cast.
+
+The winner of the two awards will be the pub or club with the highest number of
+votes.
+
+In the event of a tie, the award will be shared between the tied pubs/clubs.
+
+#### Additional information
+
+##### Online nominations/voting
+
+Each of the web forms will ask members for their names and membership numbers.
+That is to enable the branch to verify that the member has a current membership
+within the Wigan branch and that each member can only vote once at each stage.
+
+Members without access to email or the internet will be able to cast their
+votes by using someone else’s device, as long as they provide their own name
+and membership number.
+
+Any occurrences of a member voting more than once at each stage will cause that
+member’s votes to be rejected, regardless of whether the votes were for the
+same or different pubs or clubs.
+
+If a membership number is entered incorrectly and cannot be verified against the
+membership database, that vote will not be counted.
+
+##### Timeline variation
+
+The timelines set out above are subject to change for any reason deemed
+appropriate by the Annual Awards Subcommittee or Branch Committee.
+
+##### Future changes to POTS process
+
+Any changes to the branch processes for POTS will not automatically
+affect the annual awards processes.
+
+##### Name change for CPOTY
+
+Following the adoption of the motion, the name of the Branch Cider Pub of the
+Year award should be renamed to Branch Cider & Perry Pub of the Year award
+(still abbreviated to CPOTY).
+
+##### Physical prizes
+
+Currently the winner of POTY is presented with a framed certificate and shield,
+the Alan Ball Award. This motion proposes that all five annual award winners
+are presented with some form of physical trophy, to be decided upon following
+the adoption of this motion.
+
+##### Motion
+
+A full version of the Motion submitted and approved at the 2022 Branch AGM can
+be found on the Wigan CAMRA website
+[here](https://branch.wigancamra.org.uk/documents/awards/2021-12-13%20Annual%20Awards%201.0.pdf).
