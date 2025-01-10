@@ -1,9 +1,9 @@
 # Campaign For Real Ale Wigan Branch Constitution
 
-Document Version:   5.0.1
-Date edited:        7th November 2019
+Document Version:   5.3.0
+Date edited:        13th January 2023
 Edited by:          Sandy Motteram
-Date adopted:       16th October 2019
+Date adopted:       11th January 2023
 
 ## Branch Comittee
 
@@ -35,12 +35,7 @@ or its Directors shall be binding on the Branch.
 
 ## 4. Membership
 
-Any member of CAMRA living within the geographical area of the Branch is
-entitled to be a member of the Branch. Any other member of CAMRA living outside
-the Branch geographical area may apply to become a member of the CAMRA Wigan
-Branch subject to the approval of the Branch Committee. The Branch committee
-may refuse membership of the Branch from a member outside the Branch’s
-geographical area without assigning any reason.
+Any member of CAMRA is entitled to be a member of the Branch.
 
 If any member of the Branch shall cease to be a member of CAMRA his membership
 of the Branch shall automatically terminate.
@@ -53,7 +48,7 @@ Branch Committee members only. This should be done on an ad-hoc basis and only
 called when necessary to progress specific aspects of Branch business. The
 Branch Committee and any member of the Branch may put forward resolutions or
 bye-laws at such meetings to be discussed and voted upon. For the meeting to be
-quorate there shall not be less than 4 members of the Branch Committee in
+quorate there shall not be less than three members of the Branch Committee in
 attendance.
 
 ## 6. Annual General Meetings
@@ -64,12 +59,11 @@ next. Only members of the Branch and the Directors of CAMRA or their duly
 appointed representatives shall be entitled to vote at the Branch AGM. The
 business to be conducted at the AGM shall include: -
 
-* The approval of the Accounts of the Branch
-* The election of officials and Committee
-* Appointment of Brewery Liaison Officer(s)
-* Appointment of Marketing Officer
-* Appointment of Webmaster
-* Appointment of Auditors
+* The approval or otherwise of the accounts of the branch
+* The election of branch officers and committee
+* The appointment of auditors
+* The approval or otherwise of motions
+* Announcement and selection of annual awards
 * AOB
 
 At least 28 days’ notice of the AGM shall be given to all members of the Branch
@@ -134,16 +128,7 @@ the AGM or special meeting to decide who will fulfil the role. Verbal
 nominations at the AGM or Special Meeting will only be accepted for vacant
 positions where no written nomination has been received.
 
-## 11. Appointments
-
-The Branch will ask for volunteers from the membership to be appointed to be
-Webmaster, Marketing Officer and Brewery Liaison Officer(s). If a substantive
-Branch Officer post is unfilled and there is no one willing to be co-opted for
-the full range of duties by the Branch, the Committee can appoint an
-assistant(s) to the post who is/are willing to undertake the most important
-aspects of the job until the post can be filled.
-
-## 12. Finances
+## 11. Finances
 
 The financial year of the Branch shall commence on the first day of January in
 each year. The assets of the Branch shall be under the control of the Branch
@@ -168,7 +153,7 @@ All books relating to the finances of the Branch shall be produced to the
 Directors of CAMRA or their duly authorised representative on demand, on seven
 days clear notice to the Branch.
 
-## 13. Audit
+## 12. Audit
 
 The Accounts of the Branch in each year shall be audited either by a
 professional auditor or by two members of CAMRA, neither of whom shall be a
@@ -183,13 +168,13 @@ Two copies of the audited Accounts shall be lodged with CAMRA at its Registered
 Office and with the Regional Director in whose region the Branch is situated
 within one month of the date of the Annual General Meeting.
 
-# 14. Bye Laws
+# 13. Byelaws
 
 The Branch Committee shall have power (unless and until overruled by the Branch
 in General Meeting) to adopt Bye-Laws for the better furtherance of the objects
 of the Branch.
 
-## 15. Winding Up
+## 14. Winding Up
 
 The Branch may be wound up at any time by the Directors of CAMRA or by a
 Special General Meeting called for that purpose, the business having been
@@ -200,7 +185,7 @@ proper liabilities of the Branch and any surplus thereafter shall be paid to
 CAMRA. If the Branch membership falls below twenty-five the Branch may be wound
 up.
 
-## 16. Alteration to Constitution
+## 15. Alteration to Constitution
 
 This Constitution may be altered only at an AGM or Special General Meeting
 called for that purpose, with the specific alteration having been stipulated in
@@ -210,23 +195,23 @@ thirds of those present and entitled to vote.
 Before any such alteration shall become effective it shall be approved by the
 Directors of CAMRA or their duly authorised representative.
 
-## 17. Notice
+## 16. Notice
 
 The accidental omission to give notice of any meeting to any person entitled to
 such a notice shall not invalidate any proceedings at the meeting.
 
-## 18. Current branch officers
+## 17. Current branch officers
 
 ### Committee
 
 | Role | Officer |
 |-|-|
-| [Chair](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13135436/Branch-Chair-summary-CHECKED-1.pdf) | Sandy Motteram |
-| [Vice Chair](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13135522/Branch-Vice-Chair-summary-CHECKED.pdf) | Stephen Mears |
-| [Treasurer](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/03124141/Branch-Treasurer-summary-CHECKED.pdf) | Brian Gleave |
-| [Secretary](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/03124041/Branch-Secretary-summary-CHECKED.pdf) | Stuart Easton |
-| [Membership Secretary](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/03124328/Membership-Secretary-summary-CHECKED.pdf) | Karen Mears |
-| Additional Committee Members | Ken Worthington & Dave Brabbin |
+| [Chair](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13135436/Branch-Chair-summary-CHECKED-1.pdf) | Brian Gleave |
+| [Vice Chair](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13135522/Branch-Vice-Chair-summary-CHECKED.pdf) | George Valentine |
+| [Treasurer](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/03124141/Branch-Treasurer-summary-CHECKED.pdf) | Anthony Vose |
+| [Secretary](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/03124041/Branch-Secretary-summary-CHECKED.pdf) | Andrew Southworth |
+| [Membership Secretary](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/03124328/Membership-Secretary-summary-CHECKED.pdf) | Karen Mears |
+| Additional Committee Members | Dave Brabbin & David Flanagan |
 
 ### Other officers
 
@@ -234,27 +219,24 @@ such a notice shall not invalidate any proceedings at the meeting.
 |-|-|
 | [Accounts Examiners](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13140001/Accounts-Examiner-summary.pdf) | Daniel Carson <br> Stephen Mears |
 | Admin Officers | Karen Mears |
-| Branch Contact | Stuart Easton |
-| [Cider Representative](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13143527/Cider-Representative-summary.pdf) | Carol Worthington |
+| Branch Contact | Andrew Southworth |
+| [Cider Representative](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13143527/Cider-Representative-summary.pdf) | [vacant] |
 | [Clubs Coordinator](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13143554/Clubs-Co-ordinator-summary.pdf) | [vacant] |
-| [GBG Submissions Co-ordinators](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13140125/GBG-Submissions-Co-ordinator-summary.pdf) | Ken Worthington <br> Sandy Motteram <br> Pete Marsh |
-| Health and Safety Officers | George Valentine <br> Carol Worthington |
-| [Learning & Discovery Coordinator](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/20145712/Learning-Discovery-Co-ordinator-summary-edited.pdf) | Dave Whittle
+| [GBG Submissions Co-ordinators](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13140125/GBG-Submissions-Co-ordinator-summary.pdf) | George Valentine <br> Pete Marsh <br> Karen Mears <br> David Brabbin |
+| Health and Safety Officers | George Valentine |
+| [Learning & Discovery Coordinator](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/20145712/Learning-Discovery-Co-ordinator-summary-edited.pdf) | [vacant] |
 | [Local Guide Editor](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/12/11122448/Local-Guide-or-Ale-Trail-Editor-Summary.pdf) | Shelley Wright |
-| [LocAle Coordinator](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13143651/Pub-Promotions-and-Awards-Co-ordinator-summary.pdf) | Stuart Easton |
+| [LocAle Coordinator](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13143651/Pub-Promotions-and-Awards-Co-ordinator-summary.pdf) | [vacant] |
 | [Magazine Editor](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/20120817/Magazine-Editor-summary.pdf) | Shelley Wright |
-| [Media Contact](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13140257/Media-Contact-summary.pdf) | Brain Gleave <br> Dorothy Abbott |
 | Minutes Secretary | Philip Healey |
-| [Pub Campaigns Coordinator](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13145403/Pub-Campaigns-Co-ordinator-summary.pdf) | John Brearley |
-| [Pub Data Co-ordinators](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13135800/Pub-Data-Co-ordinator-summary-CHECKED.pdf) | Sandy Motteram <br> Ken Worthington |
+| [Pub Campaigns Coordinator](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13145403/Pub-Campaigns-Co-ordinator-summary.pdf) | David Flanagan |
+| [Pub Data Co-ordinators](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13135800/Pub-Data-Co-ordinator-summary-CHECKED.pdf) | George Valentine <br> Karen Mears |
 | [Pub Protection Officer](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13143714/Pub-Protection-Officer-summary.pdf) | Pete Marsh |
-| [Public Affairs Contact](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13143731/Public-Affairs-Contact-summary.pdf) | Dorothy Abbott |
-| Public Transport Officer | Stephen Brindle |
-| [Social Media Coordinator](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13140431/Social-Media-Co-ordinator-summary.pdf) | Stuart Easton |
-| [Social Secretary](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13143747/Social-Secretary-summary.pdf) | Stuart Easton |
-| [Social Officer](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13143747/Social-Secretary-summary.pdf) | Sandy Motteram <br> Cat Barclay <br> Iain Wright |
+| [Social Media Coordinator](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13140431/Social-Media-Co-ordinator-summary.pdf) | Nick Clarke |
+| [Social Secretary](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13143747/Social-Secretary-summary.pdf) | Dean McDonald |
+| [Social Officer](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13143747/Social-Secretary-summary.pdf) | [vacant] |
 | [Website Coordinator](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13140545/Website-Co-ordinator-summary.pdf) | Mike Fergie |
-| [Young Members' Contact](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13143803/Young-Members-Contact-summary.pdf) | Cat Barclay |
+| [Young Members' Contact](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13143803/Young-Members-Contact-summary.pdf) | [vacant] |
 
 ### Brewery Liaison Officers (BLOs) (appointed regionally, rather than by the branch)
 
@@ -262,11 +244,9 @@ such a notice shall not invalidate any proceedings at the meeting.
 |-|-|-|
 | [Clay Brow](https://branch.wigancamra.org.uk/2019/04/02/clay-brow-nano-brewery/) (Skelmersdale) | Lancashire | Stuart Easton |
 | [Hophurst](https://branch.wigancamra.org.uk/local-breweries/hophurst-brewery/) (Hindley) | Greater Manchester | Darrell Lawton |
-| [Martland Mill](https://branch.wigancamra.org.uk/local-breweries/martland-mill-brewery/) (Wigan) | Greater Manchester | Andrew Greenough |
 | [Mayflower](https://branch.wigancamra.org.uk/local-breweries/mayflower-brewery/) (Hindley) | Greater Manchester | Ken Worthington |
 | [Problem Child](https://branch.wigancamra.org.uk/2016/10/28/problem-child-brewery/) (Parbold) | Lancashire | Nick Clarke |
-| [Prospect](https://branch.wigancamra.org.uk/local-breweries/prospect-brewery/) (Wigan) | Greater Manchester | Carol Worthington |
-| [State of Kind](https://branch.wigancamra.org.uk/2021/10/08/state-of-kind-brew-co/) (Ince) | Greater Manchester | Dave Brabbin |
+| [State of Kind](https://branch.wigancamra.org.uk/2021/10/08/state-of-kind-brew-co/) (Ince) | Greater Manchester | David Brabbin |
 | [Wigan Brewhouse](https://branch.wigancamra.org.uk/2018/01/20/wigan-brewhouse/) (Wigan) | Greater Manchester | Stephen Mears |
 | [Wily Fox](https://branch.wigancamra.org.uk/2016/10/28/wily-fox-brewery/) (Wigan) | Greater Manchester | Pete Marsh |
 
