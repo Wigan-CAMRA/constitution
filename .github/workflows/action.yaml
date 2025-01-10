@@ -2,8 +2,8 @@ name: 'PDF Document Generation'
 description: 'Generate the constitution PDF document'
 
 on: push
-branches:
-  - main
+# branches:
+#   - main
 
 jobs:
   pandoc-generation:
