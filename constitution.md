@@ -1,11 +1,17 @@
-# Campaign For Real Ale Wigan Branch Constitution
+---
+title: Campaign For Real Ale Wigan Branch Constitution
+subject: Campaign For Real Ale Wigan Branch Constitution
+version: 5.3.0
+date edited: 13th January 2023
+edited by: Sandy Motteram
+date adopted: 11th January 2023
+colorlinks: true
+toc: true
+---
 
-Document Version:   5.3.0
-Date edited:        13th January 2023
-Edited by:          Sandy Motteram
-Date adopted:       11th January 2023
+\pagebreak
 
-## Branch Comittee
+# Branch Comittee
 
 * Chairperson:                      Brian Gleave
 * Vice Chairperson:                 George Valentine
@@ -13,34 +19,34 @@ Date adopted:       11th January 2023
 * Secretary:                        Andrew Southworth
 * Membership Secretary:             Karen Mears
 * Additional Committee Member:      David Brabin
-* Additional Committee Member:      Davod Flanagan
+* Additional Committee Member:      David Flanagan
 
-## 1. Name
+# 1. Name
 
 The name shall be the "Campaign for Real Ale Wigan Branch" hereinafter called
 "the Branch".
 
-## 2. Object
+# 2. Object
 
 The objects shall be to support the aims and objectives of the Campaign for
 Real Ale Limited (hereinafter called "CAMRA") within the geographical areas
 covered by the Branch in Greater Manchester and Lancashire [post codes WN1 to
 WN6 and WN8 and L40 (Bispham Green)].
 
-## 3. Regulations
+# 3. Regulations
 
 The Branch shall observe the Regulations for Branches laid down from time to
 time by the Directors of CAMRA. Policy decisions of a general meeting of CAMRA
 or its Directors shall be binding on the Branch.
 
-## 4. Membership
+# 4. Membership
 
 Any member of CAMRA is entitled to be a member of the Branch.
 
 If any member of the Branch shall cease to be a member of CAMRA his membership
 of the Branch shall automatically terminate.
 
-## 5. Branch Meetings
+# 5. Branch Meetings
 
 The Branch Committee shall normally hold a monthly meeting open to all Branch
 members. The Branch Committee may feel a need to hold a closed meeting for
@@ -51,7 +57,7 @@ bye-laws at such meetings to be discussed and voted upon. For the meeting to be
 quorate there shall not be less than three members of the Branch Committee in
 attendance.
 
-## 6. Annual General Meetings
+# 6. Annual General Meetings
 
 An Annual General Meeting, hereinafter called "AGM" shall be held once in every
 year, and not more than fifteen months shall elapse between one AGM and the
@@ -72,7 +78,7 @@ the ordinary course of events will give sufficient notice. A quorum for the
 Branch AGM shall be seven members present, unless otherwise previously approved
 by the Regional Director or the Directors of CAMRA.
 
-## 7. Special General Meetings
+# 7. Special General Meetings
 
 A Special General Meeting of the Branch may be called only on the decision of a
 majority number of the Branch Committee, on written request signed by five
@@ -83,7 +89,7 @@ in the ordinary course of events will give sufficient notice. Only persons
 entitled to vote at a Branch AGM shall be entitled to vote at a Special General
 Meeting.
 
-## 8. Branch Committee
+# 8. Branch Committee
 
 The Branch Committee shall consist of a total of seven members, these being the
 elected Chairperson, Vice Chairperson, Secretary, Treasurer, Membership
@@ -106,7 +112,7 @@ CAMRA will appoint such interim officers as may be necessary to manage the
 affairs of the Branch until a General Meeting of the Branch can be properly
 convened.
 
-## 9. Sub-Committees
+# 9. Sub-Committees
 
 The Branch may establish sub-committees to address specific branch business
 matters. Membership of such sub-committees will be drawn from within existing
@@ -117,7 +123,7 @@ branch printed publications and website.
 
 Other committees will be formed when deemed necessary by the Branch.
 
-## 10. Elections
+# 10. Elections
 
 Nominations for Officer posts and posts on the Branch Committee shall be in
 writing, signed by a proposer and seconder, both of whom shall be members of
@@ -128,7 +134,7 @@ the AGM or special meeting to decide who will fulfil the role. Verbal
 nominations at the AGM or Special Meeting will only be accepted for vacant
 positions where no written nomination has been received.
 
-## 11. Finances
+# 11. Finances
 
 The financial year of the Branch shall commence on the first day of January in
 each year. The assets of the Branch shall be under the control of the Branch
@@ -153,7 +159,7 @@ All books relating to the finances of the Branch shall be produced to the
 Directors of CAMRA or their duly authorised representative on demand, on seven
 days clear notice to the Branch.
 
-## 12. Audit
+# 12. Audit
 
 The Accounts of the Branch in each year shall be audited either by a
 professional auditor or by two members of CAMRA, neither of whom shall be a
@@ -174,7 +180,7 @@ The Branch Committee shall have power (unless and until overruled by the Branch
 in General Meeting) to adopt Bye-Laws for the better furtherance of the objects
 of the Branch.
 
-## 14. Winding Up
+# 14. Winding Up
 
 The Branch may be wound up at any time by the Directors of CAMRA or by a
 Special General Meeting called for that purpose, the business having been
@@ -185,7 +191,7 @@ proper liabilities of the Branch and any surplus thereafter shall be paid to
 CAMRA. If the Branch membership falls below twenty-five the Branch may be wound
 up.
 
-## 15. Alteration to Constitution
+# 15. Alteration to Constitution
 
 This Constitution may be altered only at an AGM or Special General Meeting
 called for that purpose, with the specific alteration having been stipulated in
@@ -195,14 +201,14 @@ thirds of those present and entitled to vote.
 Before any such alteration shall become effective it shall be approved by the
 Directors of CAMRA or their duly authorised representative.
 
-## 16. Notice
+# 16. Notice
 
 The accidental omission to give notice of any meeting to any person entitled to
 such a notice shall not invalidate any proceedings at the meeting.
 
-## 17. Current branch officers
+# 17. Current branch officers
 
-### Committee
+## Committee
 
 | Role | Officer |
 |-|-|
@@ -213,7 +219,7 @@ such a notice shall not invalidate any proceedings at the meeting.
 | [Membership Secretary](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/03124328/Membership-Secretary-summary-CHECKED.pdf) | Karen Mears |
 | Additional Committee Members | Dave Brabbin & David Flanagan |
 
-### Other officers
+## Other officers
 
 | Role | Officer |
 |-|-|
@@ -238,7 +244,7 @@ such a notice shall not invalidate any proceedings at the meeting.
 | [Website Coordinator](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13140545/Website-Co-ordinator-summary.pdf) | Mike Fergie |
 | [Young Members' Contact](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13143803/Young-Members-Contact-summary.pdf) | [vacant] |
 
-### Brewery Liaison Officers (BLOs) (appointed regionally, rather than by the branch)
+## Brewery Liaison Officers (BLOs) (appointed regionally, rather than by the branch)
 
 | Brewery | Region | BLO |
 |-|-|-|
@@ -250,9 +256,11 @@ such a notice shall not invalidate any proceedings at the meeting.
 | [Wigan Brewhouse](https://branch.wigancamra.org.uk/2018/01/20/wigan-brewhouse/) (Wigan) | Greater Manchester | Stephen Mears |
 | [Wily Fox](https://branch.wigancamra.org.uk/2016/10/28/wily-fox-brewery/) (Wigan) | Greater Manchester | Pete Marsh |
 
-## Appendices & Byelaws
+\pagebreak
 
-### Appendix 1. Nominations for Pub of the Season (POTS)
+# Appendices & Byelaws
+
+## Appendix 1. Nominations for Pub of the Season (POTS)
 
 _Added to byelaws at branch meeting on Tuesday 16th February 2016 at 
 Blundell’s Café Bar._
@@ -265,7 +273,7 @@ become ineligible for nomination for Pub of the Season Summer 2016, Autumn 2016
 and Winter 2016. The next opportunity to nominate Wigan Central for the Pub of
 the Season award will be Spring 2017.
 
-### Appendix 2. Voting for Pub of the Season (POTS)
+## Appendix 2. Voting for Pub of the Season (POTS)
 
 _Added to byelaws at branch meeting on Tuesday 16th February 2016 at
 Blundell’s Café Bar._
@@ -274,7 +282,7 @@ If voting for a Pub of the Season award is taking place in a venue nominated
 for the award, the voting should be concluded by way of a secret ballot as
 opposed to an open show of hands as is the regular voting method.
 
-### Appendix 3. Best New Cask Outlet award criteria
+## Appendix 3. Best New Cask Outlet award criteria
 
 _Added to byelaws at branch AGM on Wednesday 17th January 2018 at Wigan
 Central_
@@ -283,7 +291,7 @@ The award should go to a venue which has demonstrated its credentials over a
 period of between four and sixteen calendar months from its opening or
 conversion to a cask outlet
 
-### Appendix 4. Sexist or suggestive pump clips at Wigan Beer Festival
+## Appendix 4. Sexist or suggestive pump clips at Wigan Beer Festival
 
 _Added to byelaws at branch AGM on Wednesday 17th January 2018 at Wigan
 Central_
@@ -297,7 +305,7 @@ have sexist or suggestive pump clips or names. Any member demonstrating
 behaviour which breaches CAMRAs policies on Equality and Discrimination will be
 formally challenged and if necessary reported to CAMRA’s disciplinary panel.
 
-### Appendix 5. Voting for Pub of the Season (POTS) by proxy
+## Appendix 5. Voting for Pub of the Season (POTS) by proxy
 
 _12 month trial agreed at branch meeting on Tuesday 11th April 2017 at the Tap
 ‘n’ Barrel._
@@ -319,7 +327,7 @@ member also includes her/his CAMRA membership number in the interest of checks
 being made retrospectively to ensure that the absent member’s branch membership
 is current and therefore s/he is eligible to vote for POTS.
 
-#### Limitations: -
+### Limitations: -
 
 * An attending member at the branch meeting may only carry a maximum of two proxy
     votes for absent members;
@@ -339,12 +347,12 @@ is current and therefore s/he is eligible to vote for POTS.
 * An absent member must directly ask an attending member to pass on apologies
     and vote;
 
-### Appendix 6. Formalisation of Branch Pub of the Year (POTY) voting
+## Appendix 6. Formalisation of Branch Pub of the Year (POTY) voting
 
 _Added to byelaws at branch AGM on Wednesday 16th January 2019 at Wigan
 Central_
 
-#### Eligibility for nomination
+### Eligibility for nomination
 
 All of the pubs that are in the current published version of the Good Beer
 Guide are automatically nominated for Branch POTY, providing that at the point
@@ -360,7 +368,7 @@ floor during the AGM and, if seconded, the pub will be added to the list of
 nominees at the discretion of the Branch Chair (or Acting Chair, should the
 Branch Chair not be chairing the AGM).
 
-#### Voting – phase one
+### Voting – phase one
 
 Once the list of nominees is complete, a ballot by show of hands (regardless of
 meeting location) will be taken. The ballot will entitle each branch member at
@@ -369,7 +377,7 @@ greatest number of votes will form a shortlist for phase two of voting. In the
 case of a tied number of votes during phase one, the Branch Chair (or Acting
 Chair) will determine the most appropriate way to form the shortlist.
 
-#### Voting – phase two
+### Voting – phase two
 
 Each attending branch member will have the option to take part in a secret
 ballot (regardless of meeting location). Members may vote for a single pub from
@@ -378,7 +386,7 @@ the pub with the greatest number of votes shall win Branch POTY. In the case of
 a tie, the Branch Chair (or Acting Chair) will break the deadlock with a casting
 vote.
 
-### Appendix 7: Branch Chair may nominate and vote for annual awards
+## Appendix 7: Branch Chair may nominate and vote for annual awards
 
 _Added to byelaws at branch AGM on Wednesday 16th January 2019 at Wigan
 Central_
@@ -387,7 +395,7 @@ This motion proposed that the convention be done away with, enabling the Chair
 to nominate and vote for awards like any other member of the branch should s/he
 wish.
 
-### Appendix 8: Qualification for LocAle award
+## Appendix 8: Qualification for LocAle award
 
 _Added to byelaws at branch AGM on Wednesday 16th January 2019 at Wigan
 Central_
@@ -416,7 +424,7 @@ barrel of real ale has to be changed and a new locally brewed real ale might
 not be immediately available. That should be taken into consideration when
 considering eligibility.
 
-### Appendix 9: Sub-committee to fulfil the role of Social Secretary
+## Appendix 9: Sub-committee to fulfil the role of Social Secretary
 
 _Added to byelaws at branch AGM on Tuesday 14th January 2020 at Wigan Central_
 
@@ -455,7 +463,7 @@ role, an officer appointed as Social Officer should be nominated to temporarily
 fill the role until a permanent appointment to the role of Social Secretary can
 be made.
 
-### Appendix 10: Sub-committee to fulfil the role of Branch Secretary
+## Appendix 10: Sub-committee to fulfil the role of Branch Secretary
 
 _Added to byelaws at branch AGM on Tuesday 14 th January 2020 at Wigan Central_
 
@@ -493,13 +501,13 @@ role, an officer appointed as Admin Officer should be nominated to temporarily
 fill the role until a permanent appointment to the role of Branch Secretary can
 be made.
 
-### Appendix 11: New Processes for Annual Awards
+## Appendix 11: New Processes for Annual Awards
 
 _Added to byelaws at branch AGM on Thursday 13th January 2022 at Real Crafty_
 
-#### Timeline
+### Timeline
 
-##### March – Encourage members to opt-in to emails at Wigan Beer Festival
+#### March – Encourage members to opt-in to emails at Wigan Beer Festival
 
 During the Wigan Beer Festival, branch members will be encouraged on entry to
 opt-in to receive branch communications by email so that they can take part in
@@ -508,19 +516,19 @@ either with flyers or posters in the hall with website addresses and/or QR
 codes with direct links to the CAMRA website where members can update their
 details and amend their communication preferences.
 
-##### April – Email members, asking for feedback from the festival
+#### April – Email members, asking for feedback from the festival
 
 Send out branch communications via CAMRA’s comm’s tool, asking members for
 feedback from the Beer Festival. A feedback form will be designed and shared
 using an online form. This will begin to engage members and get them used to
 responding to our requests.
 
-##### June – Rules for awards
+#### June – Rules for awards
 
 Send out branch communications via CAMRA’s comm’s tool, outlining the rules and
 process for our annual awards.
 
-##### August – POTY Round 1
+#### August – POTY Round 1
 
 Send out branch communications via CAMRA’s comm’s tool with a link to a web
 form. The form will have a drop-down list of all pubs in our branch area that
@@ -529,7 +537,7 @@ enabling a member to nominate a pub that we might not currently know serves
 real ale. The branch can then investigate and update its records accordingly,
 improving the quality of information we hold.
 
-###### Automatic entry into Long List
+##### Automatic entry into Long List
 
 The ‘long list’ will contain some automatic nominations, providing those pubs
 are currently eligible for entry into the GBG as per the branch processes at
@@ -564,7 +572,7 @@ In the event of a tie, scores from NBSS will be used to break the deadlock. If
 there is still a tie, the length of the long list will be reduced, removing the
 lowest-scoring pubs.
 
-##### September –CPOTY Round 1 and shortlist
+#### September –CPOTY Round 1 and shortlist
 
 Send out branch communications via CAMRA’s comm’s tool with a link to a web
 form. The form will have a drop-down list of all pubs in our branch area that
@@ -592,7 +600,7 @@ In the event of a tie, scores from NBSS will be used to break the deadlock. If
 there is still a tie, the length of the shortlist will be reduced, removing the
 lowest-scoring pubs.
 
-##### September – COTY Round 1 and shortlist
+#### September – COTY Round 1 and shortlist
 
 Send out branch communications via CAMRA’s comm’s tool with a link to a web
 form. The form will have a drop-down list of all clubs that are marked as
@@ -616,7 +624,7 @@ In the event of a tie, scores from NBSS will be used to break the deadlock. If
 there is still a tie, the length of the shortlist will be reduced, removing the
 lowest-scoring clubs.
 
-##### October – POTY Round 2 – long list to shortlist
+#### October – POTY Round 2 – long list to shortlist
 
 Send out branch communications via CAMRA’s comm’s tool with a link to a web
 form. The form will have a drop-down list of the long list of up to 50 pubs.
@@ -635,7 +643,7 @@ In the event of a tie, scores from NBSS will be used to break the deadlock. If
 there is still a tie, the length of the long list will be reduced, removing the
 lowest-scoring pubs.
 
-##### November – Judging
+#### November – Judging
 
 Send out branch communications via CAMRA’s comm’s tool announcing the
 shortlists for POTY, CPOTY and COTY.
@@ -669,7 +677,7 @@ vote. The POTY, CPOTY and COTY awards must not be shared, in order that a
 pub/club may progress to the regional round of the respective national
 competition.
 
-##### November – BNCO suggestions
+#### November – BNCO suggestions
 
 Send out branch communications via CAMRA’s comm’s tool asking our members to
 nominate pubs for the BNCO award, including as much information as possible to
@@ -678,7 +686,7 @@ help determine eligibility.
 A list of pubs will be formed from the nominations that meet the eligibility
 criteria.
 
-##### December – Nominations for ComPOTY
+#### December – Nominations for ComPOTY
 
 Send out branch communications via CAMRA’s comm’s tool asking our members to
 nominate pubs for the ComPOTY award, including descriptive reasons why the pub
@@ -686,7 +694,7 @@ is an asset to the community and therefore deserving of the award.
 
 A list of pubs will be formed from the nominations.
 
-##### January – Encourage members to attend the AGM for BNCO &amp; ComPOTY
+#### January – Encourage members to attend the AGM for BNCO &amp; ComPOTY
 
 Send out branch communications via CAMRA’s comm’s tool encouraging members to
 attend the AGM to vote for BNCO and ComPOTY awards.
@@ -699,9 +707,9 @@ votes.
 
 In the event of a tie, the award will be shared between the tied pubs/clubs.
 
-#### Additional information
+### Additional information
 
-##### Online nominations/voting
+#### Online nominations/voting
 
 Each of the web forms will ask members for their names and membership numbers.
 That is to enable the branch to verify that the member has a current membership
@@ -718,30 +726,30 @@ same or different pubs or clubs.
 If a membership number is entered incorrectly and cannot be verified against the
 membership database, that vote will not be counted.
 
-##### Timeline variation
+#### Timeline variation
 
 The timelines set out above are subject to change for any reason deemed
 appropriate by the Annual Awards Subcommittee or Branch Committee.
 
-##### Future changes to POTS process
+#### Future changes to POTS process
 
 Any changes to the branch processes for POTS will not automatically
 affect the annual awards processes.
 
-##### Name change for CPOTY
+#### Name change for CPOTY
 
 Following the adoption of the motion, the name of the Branch Cider Pub of the
 Year award should be renamed to Branch Cider & Perry Pub of the Year award
 (still abbreviated to CPOTY).
 
-##### Physical prizes
+#### Physical prizes
 
 Currently the winner of POTY is presented with a framed certificate and shield,
 the Alan Ball Award. This motion proposes that all five annual award winners
 are presented with some form of physical trophy, to be decided upon following
 the adoption of this motion.
 
-##### Motion
+#### Motion
 
 A full version of the Motion submitted and approved at the 2022 Branch AGM can
 be found on the Wigan CAMRA website
