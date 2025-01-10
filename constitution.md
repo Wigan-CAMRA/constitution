@@ -13,7 +13,7 @@ Date adopted:       11th January 2023
 * Secretary:                        Andrew Southworth
 * Membership Secretary:             Karen Mears
 * Additional Committee Member:      David Brabin
-* Additional Committee Member:      Davod Flanagan
+* Additional Committee Member:      David Flanagan
 
 ## 1. Name
 
