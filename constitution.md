@@ -7,13 +7,13 @@ Date adopted:       11th January 2023
 
 ## Branch Comittee
 
-* Chairperson:                      Sandy Motterham
-* Vice Chairperson:                 Stephen Mears
-* Treasurer:                        Brian Gleave
-* Secretary:                        Stuart Easton
+* Chairperson:                      Brian Gleave
+* Vice Chairperson:                 George Valentine
+* Treasurer:                        Anthony Vose
+* Secretary:                        Andrew Southworth
 * Membership Secretary:             Karen Mears
-* Additional Committee Member:      Ken Worthington
-* Additional Committee Member:      Dave Brabbin
+* Additional Committee Member:      David Brabin
+* Additional Committee Member:      Davod Flanagan
 
 ## 1. Name
 
