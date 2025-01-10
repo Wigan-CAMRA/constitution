@@ -1,9 +1,9 @@
 # Campaign For Real Ale Wigan Branch Constitution
 
-Document Version:   5.0.1
-Date edited:        7th November 2019
+Document Version:   5.3.0
+Date edited:        13th January 2023
 Edited by:          Sandy Motteram
-Date adopted:       16th October 2019
+Date adopted:       11th January 2023
 
 ## Branch Comittee
 
