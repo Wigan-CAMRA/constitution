@@ -59,12 +59,11 @@ next. Only members of the Branch and the Directors of CAMRA or their duly
 appointed representatives shall be entitled to vote at the Branch AGM. The
 business to be conducted at the AGM shall include: -
 
-* The approval of the Accounts of the Branch
-* The election of officials and Committee
-* Appointment of Brewery Liaison Officer(s)
-* Appointment of Marketing Officer
-* Appointment of Webmaster
-* Appointment of Auditors
+* The approval or otherwise of the accounts of the branch
+* The election of branch officers and committee
+* The appointment of auditors
+* The approval or otherwise of motions
+* Announcement and selection of annual awards
 * AOB
 
 At least 28 days’ notice of the AGM shall be given to all members of the Branch
