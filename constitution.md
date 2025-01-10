@@ -35,12 +35,7 @@ or its Directors shall be binding on the Branch.
 
 ## 4. Membership
 
-Any member of CAMRA living within the geographical area of the Branch is
-entitled to be a member of the Branch. Any other member of CAMRA living outside
-the Branch geographical area may apply to become a member of the CAMRA Wigan
-Branch subject to the approval of the Branch Committee. The Branch committee
-may refuse membership of the Branch from a member outside the Branch’s
-geographical area without assigning any reason.
+Any member of CAMRA is entitled to be a member of the Branch.
 
 If any member of the Branch shall cease to be a member of CAMRA his membership
 of the Branch shall automatically terminate.
