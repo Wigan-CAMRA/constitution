@@ -206,12 +206,12 @@ such a notice shall not invalidate any proceedings at the meeting.
 
 | Role | Officer |
 |-|-|
-| [Chair](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13135436/Branch-Chair-summary-CHECKED-1.pdf) | Sandy Motteram |
-| [Vice Chair](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13135522/Branch-Vice-Chair-summary-CHECKED.pdf) | Stephen Mears |
-| [Treasurer](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/03124141/Branch-Treasurer-summary-CHECKED.pdf) | Brian Gleave |
-| [Secretary](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/03124041/Branch-Secretary-summary-CHECKED.pdf) | Stuart Easton |
-| [Membership Secretary](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/03124328/Membership-Secretary-summary-CHECKED.pdf) | Karen Mears |
-| Additional Committee Members | Ken Worthington & Dave Brabbin |
+| [Chair](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13135436/Branch-Chair-summary-CHECKED-1.pdf) | Brian Gleave |
+| [Vice Chair](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13135522/Branch-Vice-Chair-summary-CHECKED.pdf) | George Valentine |
+| [Treasurer](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/03124141/Branch-Treasurer-summary-CHECKED.pdf) | Anthony Vose |
+| [Secretary](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/03124041/Branch-Secretary-summary-CHECKED.pdf) | Andrew Southworth |
+| [Membership Secretary](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/03124328/Membership-Secretary-summary-CHECKED.pdf) | Karen Mears |
+| Additional Committee Members | Dave Brabbin & David Flanagan |
 
 ### Other officers
 
@@ -219,27 +219,24 @@ such a notice shall not invalidate any proceedings at the meeting.
 |-|-|
 | [Accounts Examiners](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13140001/Accounts-Examiner-summary.pdf) | Daniel Carson <br> Stephen Mears |
 | Admin Officers | Karen Mears |
-| Branch Contact | Stuart Easton |
-| [Cider Representative](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13143527/Cider-Representative-summary.pdf) | Carol Worthington |
+| Branch Contact | Andrew Southworth |
+| [Cider Representative](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13143527/Cider-Representative-summary.pdf) | [vacant] |
 | [Clubs Coordinator](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13143554/Clubs-Co-ordinator-summary.pdf) | [vacant] |
-| [GBG Submissions Co-ordinators](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13140125/GBG-Submissions-Co-ordinator-summary.pdf) | Ken Worthington <br> Sandy Motteram <br> Pete Marsh |
-| Health and Safety Officers | George Valentine <br> Carol Worthington |
-| [Learning & Discovery Coordinator](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/20145712/Learning-Discovery-Co-ordinator-summary-edited.pdf) | Dave Whittle
+| [GBG Submissions Co-ordinators](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13140125/GBG-Submissions-Co-ordinator-summary.pdf) | George Valentine <br> Pete Marsh <br> Karen Mears <br> David Brabbin |
+| Health and Safety Officers | George Valentine |
+| [Learning & Discovery Coordinator](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/20145712/Learning-Discovery-Co-ordinator-summary-edited.pdf) | [vacant] |
 | [Local Guide Editor](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/12/11122448/Local-Guide-or-Ale-Trail-Editor-Summary.pdf) | Shelley Wright |
-| [LocAle Coordinator](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13143651/Pub-Promotions-and-Awards-Co-ordinator-summary.pdf) | Stuart Easton |
+| [LocAle Coordinator](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13143651/Pub-Promotions-and-Awards-Co-ordinator-summary.pdf) | [vacant] |
 | [Magazine Editor](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/20120817/Magazine-Editor-summary.pdf) | Shelley Wright |
-| [Media Contact](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13140257/Media-Contact-summary.pdf) | Brain Gleave <br> Dorothy Abbott |
 | Minutes Secretary | Philip Healey |
-| [Pub Campaigns Coordinator](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13145403/Pub-Campaigns-Co-ordinator-summary.pdf) | John Brearley |
-| [Pub Data Co-ordinators](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13135800/Pub-Data-Co-ordinator-summary-CHECKED.pdf) | Sandy Motteram <br> Ken Worthington |
+| [Pub Campaigns Coordinator](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13145403/Pub-Campaigns-Co-ordinator-summary.pdf) | David Flanagan |
+| [Pub Data Co-ordinators](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13135800/Pub-Data-Co-ordinator-summary-CHECKED.pdf) | George Valentine <br> Karen Mears |
 | [Pub Protection Officer](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13143714/Pub-Protection-Officer-summary.pdf) | Pete Marsh |
-| [Public Affairs Contact](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13143731/Public-Affairs-Contact-summary.pdf) | Dorothy Abbott |
-| Public Transport Officer | Stephen Brindle |
-| [Social Media Coordinator](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13140431/Social-Media-Co-ordinator-summary.pdf) | Stuart Easton |
-| [Social Secretary](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13143747/Social-Secretary-summary.pdf) | Stuart Easton |
-| [Social Officer](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13143747/Social-Secretary-summary.pdf) | Sandy Motteram <br> Cat Barclay <br> Iain Wright |
+| [Social Media Coordinator](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13140431/Social-Media-Co-ordinator-summary.pdf) | Nick Clarke |
+| [Social Secretary](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13143747/Social-Secretary-summary.pdf) | Dean McDonald |
+| [Social Officer](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13143747/Social-Secretary-summary.pdf) | [vacant] |
 | [Website Coordinator](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13140545/Website-Co-ordinator-summary.pdf) | Mike Fergie |
-| [Young Members' Contact](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13143803/Young-Members-Contact-summary.pdf) | Cat Barclay |
+| [Young Members' Contact](https://www1-camra.s3.eu-west-1.amazonaws.com/wp-content/uploads/2020/11/13143803/Young-Members-Contact-summary.pdf) | [vacant] |
 
 ### Brewery Liaison Officers (BLOs) (appointed regionally, rather than by the branch)
 
@@ -247,11 +244,9 @@ such a notice shall not invalidate any proceedings at the meeting.
 |-|-|-|
 | [Clay Brow](https://branch.wigancamra.org.uk/2019/04/02/clay-brow-nano-brewery/) (Skelmersdale) | Lancashire | Stuart Easton |
 | [Hophurst](https://branch.wigancamra.org.uk/local-breweries/hophurst-brewery/) (Hindley) | Greater Manchester | Darrell Lawton |
-| [Martland Mill](https://branch.wigancamra.org.uk/local-breweries/martland-mill-brewery/) (Wigan) | Greater Manchester | Andrew Greenough |
 | [Mayflower](https://branch.wigancamra.org.uk/local-breweries/mayflower-brewery/) (Hindley) | Greater Manchester | Ken Worthington |
 | [Problem Child](https://branch.wigancamra.org.uk/2016/10/28/problem-child-brewery/) (Parbold) | Lancashire | Nick Clarke |
-| [Prospect](https://branch.wigancamra.org.uk/local-breweries/prospect-brewery/) (Wigan) | Greater Manchester | Carol Worthington |
-| [State of Kind](https://branch.wigancamra.org.uk/2021/10/08/state-of-kind-brew-co/) (Ince) | Greater Manchester | Dave Brabbin |
+| [State of Kind](https://branch.wigancamra.org.uk/2021/10/08/state-of-kind-brew-co/) (Ince) | Greater Manchester | David Brabbin |
 | [Wigan Brewhouse](https://branch.wigancamra.org.uk/2018/01/20/wigan-brewhouse/) (Wigan) | Greater Manchester | Stephen Mears |
 | [Wily Fox](https://branch.wigancamra.org.uk/2016/10/28/wily-fox-brewery/) (Wigan) | Greater Manchester | Pete Marsh |
 
